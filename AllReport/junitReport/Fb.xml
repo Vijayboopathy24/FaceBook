@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="16.280925">
+    <testcase classname="To Create a new Account in FaceBook Application" name="To Create a new Account" time="16.280925">
+        <system-out><![CDATA[Given To Click Create New Account...........................................passed
+And To Enter First Name in First name field.................................passed
+And To Enter Last Name in Last name field...................................passed
+And To Enter Mobile Number or Emailid  In Mobile Number or EmailId Field....passed
+And To Enter New PassWord...................................................passed
+And To Enter Date...........................................................passed
+And To Enter Month..........................................................passed
+And To Enter Year...........................................................passed
+And To Enter Gender.........................................................passed
+And To Click SignUp Button..................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
